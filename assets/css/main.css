@@ -217,6 +217,11 @@ header nav a {
     white-space: nowrap;
 }
 
+.site-logo {
+    width: auto;
+    height: 32px;
+}
+
 .common-header {
     padding-bottom: 1.5em;
     border-bottom: thin solid var(--hr-color);
